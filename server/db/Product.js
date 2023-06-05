@@ -1,5 +1,5 @@
 const conn = require('./conn');
-const { STRING, INTEGER, UUID, UUIDV4 } = conn.Sequelize;
+const { STRING, FLOAT, INTEGER, UUID, UUIDV4 } = conn.Sequelize;
 
 const Product = conn.define('product', {
   id: {
