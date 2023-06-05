@@ -23,7 +23,3 @@
 -  A user should be able to upload an avatar to their profile
 -  An administrator should be able to add a coupon code
 -  A user should be able to use a coupon code
-
-# Test
-
--  Testing
