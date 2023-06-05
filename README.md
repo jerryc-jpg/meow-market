@@ -16,7 +16,6 @@
 
 # Bonus Features
 
-<<<<<<< Updated upstream
 -  A user should be able to search for products
 -  A user should be able to create a wish list
 -  A user should be able to checkout using stripe
@@ -24,10 +23,8 @@
 -  A user should be able to upload an avatar to their profile
 -  An administrator should be able to add a coupon code
 -  A user should be able to use a coupon code
-=======
--test
 
->>>>>>> Stashed changes
+
 
 # Test
 
