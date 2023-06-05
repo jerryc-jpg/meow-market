@@ -1,5 +1,5 @@
 const conn = require('./conn');
-const { STRING, FLOAT, INTEGER, UUID, UUIDV4 } = conn.Sequelize;
+const { STRING, TEXT, FLOAT, INTEGER, UUID, UUIDV4 } = conn.Sequelize;
 
 const Product = conn.define('product', {
   id: {
@@ -20,7 +20,6 @@ const Product = conn.define('product', {
   },
   imgUrl:{
     type: TEXT,
-    allowNull: false,
     defaultValue: "",
   },
   breed: {
